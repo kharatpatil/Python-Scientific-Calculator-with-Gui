@@ -49,4 +49,4 @@ No external libraries required!
    cd scientific-calculator-tkinter
 3. **Run the Application**
    ```bash
-   python calculator.py
+   Python-Scientific-Calculator-with-Gui.py
