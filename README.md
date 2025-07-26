@@ -32,9 +32,9 @@ Here’s how the Scientific Calculator looks:
 ## 🖥️ How to Run
 
 ### 🔹 With `python3`
--**Dependencies**:
-  -`tkinter` (built-in with Python 3)
-  -`math` (built-in)
+- **Dependencies**:
+-`tkinter` (built-in with Python 3)
+-`math` (built-in)
 No external libraries required!
 
 ### 🔹 Without `python3`
@@ -48,5 +48,5 @@ No external libraries required!
    git clone https://github.com/kharatpatil/Python-Scientific-Calculator-with-Gui.git
    cd scientific-calculator-tkinter
 3. **Run the Application**
-  ```bash
+   ```bash
    python calculator.py
