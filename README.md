@@ -22,8 +22,20 @@
 - **GUI**: Built using `tkinter`, no external libraries required
 
 ---
+## 📸 Output — Screenshots
+Here’s how the Scientific Calculator looks:
+
+![Calculator Screenshot](scientific_calculator.png)
+
+---
 
 ## 🖥️ How to Run
+
+### 🔹 With `python3`
+-**Dependencies**:
+  -`tkinter` (built-in with Python 3)
+  -`math` (built-in)
+No external libraries required!
 
 ### 🔹 Without `python3`
 1. **Install pip, `math`, and `tkinter`**  
